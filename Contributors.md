@@ -1,5 +1,6 @@
 # Contributors
 <!-- prettier-ignore-start -->
+- [Madan] (https://github.com/Madanaa)
 - [Soumik Saha] (https://github.com/soumik-saha)
 - [Krishnakumar V] (https://github.com/krishkdev)
 - [Lauris Macans] (https://github.com/lauriselvijs)
